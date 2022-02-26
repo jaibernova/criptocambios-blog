@@ -20,8 +20,8 @@ const Footer = (): JSX.Element => {
       <S.Info>
         <Caption>
           Compra ya en{" "}
-          <AnimatedLink to="https://lukamascotas.com.co">
-            Luka Mascotas
+          <AnimatedLink to="https://shop.criptocambioslatam.com">
+            Cripto cambios LATAM
           </AnimatedLink>
         </Caption>
         <Caption>{config.website.copyright}</Caption>
